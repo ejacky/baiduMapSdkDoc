@@ -1,0 +1,9 @@
+com.baidu.navisdk
+com.baidu.navisdk.comapi.mapcontrol
+com.baidu.navisdk.comapi.routeplan
+com.baidu.navisdk.comapi.setting
+com.baidu.navisdk.comapi.tts
+com.baidu.navisdk.model.datastruct
+com.baidu.navisdk.ui.routeguide
+com.baidu.nplatform.comapi.basestruct
+com.baidu.nplatform.comapi.map
